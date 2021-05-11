@@ -1,6 +1,5 @@
 # Software design pattern for PHP
 
-See details on http://maxsite.org/page/php-patterns
 
 * "Facade" (Structural)
 * "Fluent interface" (Structural)
@@ -23,4 +22,3 @@ See details on http://maxsite.org/page/php-patterns
 * "Dependency injection" (Creational)
 
 
-(c) MaxSite.org, 2019, http://maxsite.org/
